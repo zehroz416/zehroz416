@@ -10,7 +10,7 @@ Junior Data Analyst focused on **Data Quality + KPI Reporting (Sales/Ops)**.
 ### Featured Project
 - **Online Retail KPI Reporting (Excel + Power Query)**  
   Public dataset (UCI Online Retail) — KPI dashboard + data quality checks + rule-based reconciliation  
-  Project repo: ([add link](https://github.com/zehroz416/online-retail-kpi-reporting-excel))
+  Project repo: Project repo: https://github.com/zehroz416/online-retail-kpi-reporting-excel
 
 🔗 LinkedIn: https://www.linkedin.com/in/zehrozshahzad  
 📧 Email: zehrozkhan4@gmail.com
