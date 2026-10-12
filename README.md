@@ -1,5 +1,4 @@
 ## Hi, I’m Zehroz Shahzad
-
 Junior Data Analyst focused on **Data Quality + KPI Reporting (Sales/Ops)**.
 
 **Tools:** Excel, Power Query, SQL, Power BI  
@@ -8,9 +7,9 @@ Junior Data Analyst focused on **Data Quality + KPI Reporting (Sales/Ops)**.
 **Interested in:** Junior Data Analyst / Reporting Analyst / Power BI Analyst roles (Remote)
 
 ### Featured Project
-- **Online Retail KPI Reporting (Excel + Power Query)**  
-  Public dataset (UCI Online Retail) — KPI dashboard + data quality checks + rule-based reconciliation  
-  Project repo: Project repo: https://github.com/zehroz416/online-retail-kpi-reporting-excel
+**Online Retail KPI Reporting (Excel + Power Query)**  
+Public dataset (UCI Online Retail) — KPI dashboard + data quality checks + rule-based reconciliation  
+Project repo: https://github.com/zehroz416/online-retail-kpi-reporting-excel
 
 🔗 LinkedIn: https://www.linkedin.com/in/zehrozshahzad  
 📧 Email: zehrozkhan4@gmail.com
